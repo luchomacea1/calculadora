@@ -22,4 +22,6 @@ public class Data {
   {
 	  this.mensaje=mensaje;
   }
+
+  //jajajajjaaj
 }
